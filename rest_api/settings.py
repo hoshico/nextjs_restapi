@@ -29,7 +29,6 @@ DEBUG = config('DEBUG')
 
 ALLOWED_HOSTS = ['nextjs-restful-api.herokuapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
